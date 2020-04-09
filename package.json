@@ -1,0 +1,16 @@
+{
+  "name": "node-oracle",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sakol Assawasagool <koobitor@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon -w index.js index.js"
+  },
+  "dependencies": {
+    "oracledb": "^4.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}

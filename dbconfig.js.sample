@@ -1,0 +1,5 @@
+module.exports = {
+  user: 'user',
+  password: 'pass',
+  connectString: 'localhost:1521/db',
+};
